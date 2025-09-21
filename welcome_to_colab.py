@@ -307,4 +307,3 @@ Format:
                     st.markdown(f"**Rubric:** {item.get('rubric','')}")
                 st.markdown("---")
 
-!pip install streamlit
